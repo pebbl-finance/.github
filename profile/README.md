@@ -1,5 +1,3 @@
 # Pebbl
 
-Stay with us, great things are coming very soon!
-
-## [Website](https://www.pebblfinance.com)
+Pebbl is a financial platform which helps you achieve financial success and put your Dreams on Autopilot.
