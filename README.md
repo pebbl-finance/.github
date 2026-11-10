@@ -2,7 +2,7 @@
 
 # Pebbl
 
-A personal finance app that helps you set savings goals and reach them on Autopilot. Visit [pebblfinance.com](https://pebblfinance.com).
+A personal finance app that helps you set savings goals and reach them on Autopilot.
 
 ## Links
 
